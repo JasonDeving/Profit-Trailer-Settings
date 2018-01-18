@@ -41,3 +41,5 @@ When ALTS start to rise the included default settings with enbled trailing buy a
 # Disclaimer:
 
 Jason Chan is not held responsible if you lose. This is only alpha tested settings. Please modify settings according to your needs.
+
+[YOUTUBE]: https://www.youtube.com/channel/UC_klrGae5QNIndP4oxLpnoA
