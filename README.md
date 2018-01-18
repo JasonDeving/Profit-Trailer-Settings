@@ -34,7 +34,7 @@ To fine-tune dip buying levels and my preferred method while actively trading an
 When it starts rising you can set it lower when it drops adjust a bit higher.
 
 Sometimes you can stay at the same buy setting for 2 hours but this might change instantly the visual gives you a good indication, for you to act on, in case the market shifts..
-When ALTS start to rise the included default settings with enbled trailing buy are pretty safe and less maintenance is required. 
+When ALTS start to rise the included default settings with enablebled trailing buy are pretty safe and less maintenance is required. 
 
 (On the other alts rising like crazy side: higher BB levels like 45 can be optimal.)
 
