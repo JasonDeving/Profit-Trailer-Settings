@@ -40,4 +40,4 @@ When ALTS start to rise the included default settings with enbled trailing buy a
 
 # Disclaimer:
 
-Jason Chan is not held responsible if these settings make you lose. This is only alpha tested settings. Please modify settings to your market needs.
+Jason Chan is not held responsible if you lose. This is only alpha tested settings. Please modify settings according to your needs.
