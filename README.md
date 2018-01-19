@@ -43,5 +43,6 @@ When ALTS start to rise the included default settings with enablebled trailing b
 Jason Chan is not held responsible if you lose. This is only alpha tested settings. Please modify settings according to your needs.
 
 :point_right:[YOUTUBE](https://www.youtube.com/channel/UC_klrGae5QNIndP4oxLpnoA) <br>
-[VPS](https://billing.virmach.com/aff.php?aff=3499) <br>
+[LINUX VPS](https://www.vultr.com/?ref=7311335) <br>
+[Windows VPS](https://billing.virmach.com/aff.php?aff=3499) <br>
 [PROFIT TRAILER](https://profittrailer.com/) <br>
