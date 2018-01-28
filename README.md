@@ -40,7 +40,7 @@ When ALTS start to rise the included default settings with enablebled trailing b
 
 # Disclaimer:
 
-Jason Chan is not held responsible if you lose. This is only alpha tested settings. Please modify settings according to your needs.
+Jason Chan is not held responsible if you lose. This is only alpha tested settings. Please modify settings according to your needs. This is only for educational purposes, by downloading and using Jason Chan's settings you are held responsible for your own actions. He does not guarantee profitable trades from these settings.
 
 :point_right:[YOUTUBE](https://www.youtube.com/channel/UC_klrGae5QNIndP4oxLpnoA) <br>
 [LINUX VPS](https://www.vultr.com/?ref=7311335) <br>
